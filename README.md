@@ -4,7 +4,7 @@ This is a sample project for creating a CI/CD pipeline with Github Actions and D
 
 ## Prerequisites
 
-Before you begin, make sure you have the following:
+Before you begin, make sure you have the following
 
 - A Github account
 - A Docker Hub account
